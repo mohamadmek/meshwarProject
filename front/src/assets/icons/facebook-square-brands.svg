@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="facebook-square"
+   class="svg-inline--fa fa-facebook-square fa-w-14"
+   role="img"
+   viewBox="0 0 448 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="facebook-square-brands.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="929"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="224"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="64"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 400,32 H 48 A 48,48 0 0 0 0,80 v 352 a 48,48 0 0 0 48,48 H 185.25 V 327.69 h -63 V 256 h 63 v -54.64 c 0,-62.15 37,-96.48 93.67,-96.48 27.14,0 55.52,4.84 55.52,4.84 v 61 h -31.27 c -30.81,0 -40.42,19.12 -40.42,38.73 V 256 h 68.78 l -11,71.69 H 262.75 V 480 H 400 a 48,48 0 0 0 48,-48 V 80 A 48,48 0 0 0 400,32 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#3b5998;fill-opacity:1" />
+</svg>

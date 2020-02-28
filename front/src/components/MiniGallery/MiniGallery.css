@@ -1,0 +1,11 @@
+.MiniGallery_section {
+  display: flex;
+  flex: 1 1 20%;
+  margin-top: 40px;
+}
+
+@media all and (max-width: 750px) {
+  .MiniGallery_section {
+    display: none;
+  }
+}

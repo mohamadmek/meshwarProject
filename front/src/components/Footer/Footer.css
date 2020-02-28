@@ -1,0 +1,60 @@
+@import '../../App.css';
+
+footer {
+    position: relative;
+    background: #A8C2CA;
+    
+    
+}
+
+.footer_wrapper {
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: url('../../assets/images/footer-background.png')no-repeat center center/cover;
+    opacity: 0.8;
+    padding: 0 20px;
+    flex-wrap: wrap;
+}
+
+
+.footer_h1 {
+    
+}
+
+.footer_wrapper ul {
+   
+    text-align: right;
+}
+
+.footer_wrapper li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.footer_social-link {
+    width: 35px;
+    height: 35px;
+}
+
+.footer_parag {
+    position: absolute;
+    bottom: 0;
+    left: 45%;
+}
+
+@media all and (max-width: 470px) {
+    .footer_wrapper {
+       align-items: flex-start;
+        justify-content: space-around;        
+    }
+
+    .footer_h1 {
+        margin-top: 10px;
+    }
+    
+    .footer_parag {
+        left: 15%;
+    }
+}

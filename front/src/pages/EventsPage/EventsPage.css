@@ -1,0 +1,19 @@
+.eventsPage_cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 50px auto;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.eventsPage_wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.eventsPage_title {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid #A8C2CA;
+}

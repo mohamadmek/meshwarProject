@@ -1,0 +1,12 @@
+.gallery_box {
+  width: 100%;
+  margin: 0 0 20px;
+  padding: 5px;
+  overflow: hidden;
+  background-color:#A8C2CA;
+  break-inside: avoid;
+}
+
+.gallery_pic {
+  max-width: 100%;
+}

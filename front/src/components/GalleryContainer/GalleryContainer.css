@@ -1,0 +1,36 @@
+.gallery_container {
+    width: 1200px;
+    margin: 20px auto;
+    columns: 4;
+    column-gap: 20px;
+    
+}
+
+
+#gallery_h1 {
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+@media (max-width: 1200px){
+    .gallery_container {
+        columns: 3;
+        width: calc(100% - 40px);
+        box-sizing: border-box;
+        padding: 20px 20px 20px 0;
+        
+        
+    }
+}
+
+@media (max-width: 768px){
+    .gallery_container {
+        columns: 2;
+    }
+}
+
+@media (max-width:480px){
+    .gallery_container {
+        columns: 1;
+    }
+}

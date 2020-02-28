@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+/* $primary: #A8C2CA; */
+/* $secondary: #E5E5E5; */
+
+
+.App {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+h1, h2, h3 {
+  color: #4a4a4a;
+  font-family: 'Montserrat';
+  padding: 0;
+  margin: 0;
+}
+

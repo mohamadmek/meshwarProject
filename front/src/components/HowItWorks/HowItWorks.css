@@ -1,0 +1,49 @@
+.howitworks_works {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.howitworks_width {
+    max-width: 300px;
+    margin-top: 15px;
+    
+}
+#howitworks_kek {
+    text-align: center;
+    
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.howitworks_step_title {
+    margin-top: 15px;
+    color: #ccc;
+}
+.howitworks_sub {
+    font-weight: bold;
+    color: rgb(70, 63, 63);
+    font-size: 1.4rem;
+}
+
+.howitworks_step {
+    text-align: left;
+    padding: 20px;
+}
+
+.howitworks_icon {
+    padding: 30px;
+}
+
+.howitworks_spaceing {
+   margin-bottom: 60px;
+}
+
+.fa-ticket,
+.fa-child,
+.fa-bus {
+    font-size: 60px !important;
+    color: #4a4a4a;
+}

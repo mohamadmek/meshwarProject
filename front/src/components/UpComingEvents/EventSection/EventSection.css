@@ -1,0 +1,8 @@
+.EventSection_Wrapper {
+  margin-top: 30px;
+  display: flex !important;
+  justify-content: space-around;
+  background-color: #fff;
+  flex-wrap: wrap;
+}
+
